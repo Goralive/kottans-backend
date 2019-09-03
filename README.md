@@ -1,5 +1,5 @@
 # kottans-backend
 
 ***Git***
-
-Remember how to work with git and use vim
+Finished during the frontend course.
+https://github.com/Goralive/kottans-frontend
