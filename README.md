@@ -8,3 +8,7 @@ https://github.com/Goralive/kottans-frontend
 ## Unix Shell
 Codeacademy finished while frontend course.
 >Setup fedora and start to use shell
+
+## Git Collaboration
+Finished during the frontend course.
+>Using in every day work. Making code reviews
