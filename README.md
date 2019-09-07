@@ -6,8 +6,8 @@ https://github.com/Goralive/kottans-frontend
 >I'm using in everyday routine and don't afraid to make mistakes. 
 
 ## Unix Shell
-Codeacademy finished while frontend course.
->Setup fedora and start to use shell
+Codeacademy finished while frontend course.Read articles 
+>Setup fedora and start to use shell. Don't use root :D
 
 ## Git Collaboration
 Finished during the frontend course.
