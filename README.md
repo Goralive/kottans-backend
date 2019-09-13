@@ -29,7 +29,8 @@ What's the difference between Text and Data memory segments ?
 
 
 
-{5ed94f74000-55ed94f76000 r--p 00000000 fd:00 1704271                    /usr/bin/cat
+{
+5ed94f74000-55ed94f76000 r--p 00000000 fd:00 1704271                    /usr/bin/cat
 55ed94f76000-55ed94f7b000 r-xp 00002000 fd:00 1704271                    /usr/bin/cat
 55ed94f7b000-55ed94f7e000 r--p 00007000 fd:00 1704271                    /usr/bin/cat
 55ed94f7e000-55ed94f7f000 r--p 00009000 fd:00 1704271                    /usr/bin/cat
@@ -52,4 +53,5 @@ What's the difference between Text and Data memory segments ?
 7ffd1d9b9000-7ffd1d9db000 rw-p 00000000 00:00 0                          [stack]
 7ffd1d9e1000-7ffd1d9e4000 r--p 00000000 00:00 0                          [vvar]
 7ffd1d9e4000-7ffd1d9e5000 r-xp 00000000 00:00 0                          [vdso]
-ffffffffff600000-ffffffffff601000 r-xp 00000000 00:00 0                  [vsyscall]}
+ffffffffff600000-ffffffffff601000 r-xp 00000000 00:00 0                  [vsyscall]
+}
