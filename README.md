@@ -27,6 +27,7 @@ What's the difference between Text and Data memory segments ?
 >Text segment - is  only read-only memory area and stores all of your code.
 >Data segment - holds the contents for static variables initialized in source code. This memory area is not anonymous.
 
+After proc/maps
 ```
 5ed94f74000-55ed94f76000 r--p 00000000 fd:00 1704271                    /usr/bin/cat
 55ed94f76000-55ed94f7b000 r-xp 00002000 fd:00 1704271                    /usr/bin/cat
@@ -53,3 +54,9 @@ What's the difference between Text and Data memory segments ?
 7ffd1d9e4000-7ffd1d9e5000 r-xp 00000000 00:00 0                          [vdso]
 ffffffffff600000-ffffffffff601000 r-xp 00000000 00:00 0                  [vsyscall]
 ```
+
+Heap - 55ed96896000-55ed968b7000
+Stack - 7ffd1d9b9000-7ffd1d9db000
+MMS - 7fbbbd9df000-7fbbbdb2c000
+
+For now it's pretty hard for me, and I should re-read about MMS. But it's pretty interesting. Maybe some article is preety hard to undestand)
