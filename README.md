@@ -60,3 +60,8 @@ Stack - `7ffd1d9b9000-7ffd1d9db000`
 MMS - `7fbbbd9df000-7fbbbdb2c000`
 
 For now it's pretty hard for me, and I should re-read about MMS. But it's pretty interesting. Maybe some article is preety hard to undestand)
+
+## TCP. UDP. Network
+[Internet 101](https://github.com/Goralive/kottans-backend/blob/master/task_network/internet101.png)
+[Networking for Web Developers](https://github.com/Goralive/kottans-backend/blob/master/task_network/udacity.png)
+>Start to undestand how the server is working. Networking it's a huge sphere
